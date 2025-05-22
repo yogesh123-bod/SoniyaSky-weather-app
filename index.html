@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SoniyaSky</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <video autoplay muted loop id="bgVideo">
+    <source src="videos/default.mp4" type="video/mp4">
+  </video>
+
+  <div class="container">
+    <h1>SoniyaSky 🌍 </h1>
+    <div class="search-box">
+      <input type="text" id="cityInput" placeholder="Search city..." oninput="getCitySuggestions(this.value)" autocomplete="off" />
+      <ul id="suggestions"></ul>
+    </div>
+    <button onclick="getWeather()">Get Weather</button>
+    <div id="result" class="weather-result"></div>  
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

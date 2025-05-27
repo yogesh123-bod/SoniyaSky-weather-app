@@ -7,8 +7,8 @@ SoniyaSky is a web-based weather application that allows users to quickly check 
 
 ### Screenshots
 
-![App Screenshot](https://prnt.sc/J0jl6GvV1k90)
-![App Screenshot](https://prnt.sc/sAW1lLShUl3N)
+![Front page](https://prnt.sc/J0jl6GvV1k90)
+![Back page](https://prnt.sc/sAW1lLShUl3N)
 
 
 ### Key Feature

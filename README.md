@@ -7,7 +7,7 @@ SoniyaSky is a web-based weather application that allows users to quickly check 
 
 ### Screenshots
 
-![App Screenshot](https://yogesh123-bod.github.io/SoniyaSky-weather-app/)
+![App Screenshot](https://prnt.sc/J0jl6GvV1k90)
 
 
 ### Key Feature

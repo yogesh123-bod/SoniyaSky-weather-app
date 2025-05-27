@@ -5,11 +5,9 @@
 
 SoniyaSky is a web-based weather application that allows users to quickly check the current weather for any city in the world. Built with HTML, CSS, and JavaScript, it fetches real-time data from a weather API (such as OpenWeatherMap) and displays it in a user-friendly format.
 
-### Screenshots
+### Visit Websites 
 
-![Front page](https://prnt.sc/J0jl6GvV1k90)
-![Back page](https://prnt.sc/sAW1lLShUl3N)
-
+https://magenta-trifle-a794dc.netlify.app/
 
 ### Key Feature
 

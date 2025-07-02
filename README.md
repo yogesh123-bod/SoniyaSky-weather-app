@@ -1,4 +1,5 @@
 
+
 # SoniyaSky Weather 
 
 ### Description
@@ -8,6 +9,14 @@ SoniyaSky is a web-based weather application that allows users to quickly check 
 ### Visit Websites 
 
 https://magenta-trifle-a794dc.netlify.app/
+
+### Screenshot
+
+![Image](https://github.com/user-attachments/assets/7c695c8c-39c1-46c2-9ced-20a34de11e5f)
+
+![Image](https://github.com/user-attachments/assets/75c793a9-796c-4628-b702-5c92ef14fb9c)
+
+
 
 ### Key Feature
 
@@ -51,7 +60,3 @@ HTML & CSS: For structure and styling.
 JavaScript: For interactivity and API integration.
 
 Weather API: Likely using OpenWeatherMap to fetch live weather data.
-
-
-
-
